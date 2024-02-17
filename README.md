@@ -64,7 +64,7 @@ $ npm start (to start the server) or nodemon app
 
 - User registration and login
 - Authentication using JWT Tokens
-- Add, edit, delete SUBJECTS
+- Add, edit, delete books
 - Search Live
 - 404 Page and many more
 - Responsive Design

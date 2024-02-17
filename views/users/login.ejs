@@ -1,0 +1,80 @@
+<%-include('../partials/header')%>
+
+
+ <!-- Bootstrap 5 Contact Form Login -->
+    
+ <div class="container-fluid px-5 my-5 bodylogin">
+    <div class="row justify-content-center">
+      <div class="col-xl-10">
+        <div class="card border-0 rounded-3 shadow-lg overflow-hidden">
+          <div class="card-body p-0">
+            <div class="row g-0">
+              <div class="col-sm-6 d-none d-sm-block bg-image"></div>
+              <div class="col-sm-6 p-4">
+                <div class="text-center">
+                  <!--<div class="h3 fw-light">Contact Form</div>-->
+                  <h3 class="mb-3"><i class="fas fa-sign-in-alt"> login</i></h3>
+                  <p class="mb-4 text-muted">Login form</p>
+                </div>
+  
+           
+
+            <form action="/login" method="POST">
+                
+  
+                  <!-- Name Input -->
+                  <div class="form-floating mb-3 form-group">
+
+                    <input class="form-control" id="username" type="text" placeholder="UserName" name="username"/>
+                    <label for="name">Name</label>
+                    <div class="invalid-feedback" data-sb-feedback="name:required">Name is required.
+
+                    </div>
+                  </div>
+
+
+                  <!-- password Input -->
+                  <div class="form-floating mb-3 form-group">
+                    <input class="form-control" id="password" type="password" placeholder="Password" name="password"/>
+                    <label for="password">Password</label>
+                  <div class="invalid-feedback" data-sb-feedback="password:required">Password is required.</div>
+                    
+                  </div>
+  
+                  <!-- Submit success message -->
+                  <div class="d-none" id="submitSuccessMessage">
+                    <div class="text-center mb-3">
+                      <div class="fw-bolder">Form submission successful!</div>
+                    </div>
+                  </div>
+  
+                  <!-- Submit error message -->
+                  <div class="d-none" id="submitErrorMessage">
+                    <div class="text-center text-danger mb-3">Error sending message!</div>
+                  </div>
+  
+                  <!-- Submit button -->
+                  <div class="d-grid">
+                    <button class="btn btn-primary btn-lg">Login</button>
+                  </div>
+              <p class="lead mt-4">
+                  No Account? <a href="/register">Register</a>
+                </p>
+
+
+
+                </form>
+                <!-- End of contact form -->
+  
+              </div>
+            </div>
+  
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<%-include('../partials/footer')%>
+

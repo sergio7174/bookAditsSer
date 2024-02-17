@@ -76,12 +76,7 @@ This project was created using the following technologies.
 
 ####  Frontend 
 
-- [Node js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces and backend servers specifically for single-page applications
-- [Express  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
-- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
-- [axios](https://www.npmjs.com/package/axios) - For making Api calls
-- [React-bootstrap](https://mui.com/) - For User Interface
-- [React Redux](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
+- [EJS ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces and backend servers specifically for single-page applications
 - [React Toastify](https://www.npmjs.com/package/react-toastify) - To display interactive and responsive notifications (toasts) in web applications
 
 ####  Backend 

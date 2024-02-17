@@ -48,8 +48,9 @@ $ npm start (to start the server) or nodemon app
 ![Static Badge](https://img.shields.io/badge/multer-teal?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/joi%20-aqua?style=for-the-badge)
 
-<br>
+
 ##  Screenshots:
+<br>
 <img src="./PROJECTIMAGES/IMAGE01.jpg" alt="project screenshot01" />
 <img src="./PROJECTIMAGES/IMAGE02.jpg" alt="project screenshot02" />
 <img src="./PROJECTIMAGES/IMAGE03.jpg" alt="project screenshot03" />

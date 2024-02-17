@@ -24,15 +24,10 @@ In order to run this project locally, simply fork and clone the repository or do
 ```
 $ cd client
 $ npm install (to install client-side dependencies)
-$ npm run  start (to start the client)
+$ npm run  start (to start the client)  or nodemon app
+```
 ```
 
-
-```
-# --- Terminal ---
-
-$ npm install (to install server-side dependencies)
-$ npm start (to start the server) or nodemon app
 ```
 ![Status project](https://img.shields.io/badge/STATUS-Finished-GREEN?style=for-the-badge)
 

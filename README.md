@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆 Book Adits Ser  </h1>
+<h1 align ="center" > 🏆 Book Addits Ser  </h1>
 <h5  align ="center"> 
 Fullstack open source Book search and sell application made with MongoDB, Express, Nodejs  </h5>
 <br>

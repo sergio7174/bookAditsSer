@@ -50,7 +50,6 @@ $ npm start (to start the server) or nodemon app
 
 <br>
 ##  Screenshots:
-<br>
 <img src="./PROJECTIMAGES/IMAGE01.jpg" alt="project screenshot01" />
 <img src="./PROJECTIMAGES/IMAGE02.jpg" alt="project screenshot02" />
 <img src="./PROJECTIMAGES/IMAGE03.jpg" alt="project screenshot03" />

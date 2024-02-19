@@ -60,7 +60,7 @@ $ npm run  start (to start the client)  or nodemon app
 - User registration and login
 - Authentication using JWT Tokens
 - Add, edit, delete books
-- Search Live
+- Live Search 
 - 404 Page and many more
 - Responsive Design
 <br/>
